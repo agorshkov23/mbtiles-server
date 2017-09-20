@@ -1,0 +1,4 @@
+mbtiles:
+  server:
+    active: true
+    path: src/test/tiles.mbtiles
